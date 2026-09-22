@@ -1,0 +1,6 @@
+{
+  "name": "نافس وتعلم - منصة العلوم التفاعلية",
+  "description": "منصة تعليمية تفاعلية وتنافسية، تجمع بين المحتوى التعليمي ومصنع الأنشطة الذكي، وتقدّم تجربة تعلّم ممتعة عبر الألعاب والتحديات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
